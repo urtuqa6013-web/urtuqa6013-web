@@ -16,11 +16,6 @@ Building clean, responsive and scalable web applications.
 
 </p>
 
-<p align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-
-</p>
 
 ---
 
@@ -67,12 +62,9 @@ const urwa = {
 
 
 ```
+---
 
-<div align="center">
 
-LinkedIn | Portfolio | Gmail | GitHub
-
-</div>
 
 
 ## 🛠️ Tech Stack
@@ -136,14 +128,6 @@ LinkedIn | Portfolio | Gmail | GitHub
 
 
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=urtuqa6013-web&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
-
-</div>
-
 
 ---
 
@@ -156,15 +140,6 @@ LinkedIn | Portfolio | Gmail | GitHub
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=urtuqa6013-web&theme=onedark&margin-w=15"/>
-
-</p>
 
 ---
 
@@ -392,4 +367,11 @@ Modern developer portfolio with animations.
 
 </tr>
 </table>
+
+
+<div align="center">
+
+LinkedIn | Portfolio | Gmail | GitHub
+
+</div>
 
