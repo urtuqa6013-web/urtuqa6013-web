@@ -1,29 +1,49 @@
-<h1 align="center">Hi 👋, I'm Urwa Tul Wusqa</h1>
+<h1 align="center">
+Hi 👋, I'm <span style="color:#00C4FF;">Urwa Tul Wusqa</span>
+</h1>
 
 <h3 align="center">
-MERN Stack Developer | React | Node.js | MongoDB | Express
+🚀 MERN Stack Developer | React | Node.js | Express | MongoDB
 </h3>
+
+<p align="center">
+Building clean, responsive and scalable web applications.
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+Developer;Node.js+Developer;Always+Learning+New+Technologies;Open+To+Remote+Opportunities"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
+
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
+- 💼 MERN Stack Developer
 - 🌱 Currently learning **Advanced MERN Stack**
-- 💻 Building Full Stack Projects
-- 🚀 Looking for Remote MERN Developer Opportunities
-- 📫 Email: **urtuqa6013@gmail.com**
-- 🌍 Pakistan
+- 🚀 Passionate about building full-stack applications
+- 💻 Love working with React, Node.js, Express & MongoDB
+- 🌍 Based in Pakistan
+- 📧 **urtuqa6013@gmail.com**
+- 🌐 Portfolio: **https://portfolio-urwa-tul-wusqa.vercel.app**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/urwa-tul-wusqa-39029341b">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://portfolio-urwa.vercel.app">
+<a href="https://portfolio-urwa-tul-wusqa.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
 </a>
 
