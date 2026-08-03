@@ -17,8 +17,6 @@ Building clean, responsive and scalable web applications.
 </p>
 
 
----
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:38BDF8&height=2&section=header"/>
 
 
@@ -112,13 +110,21 @@ const urwa = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=urtuqa6013-web&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=urtuqa6013-web&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtuqa6013-web&layout=compact&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urtuqa6013-web&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=urtuqa6013-web&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
 
 <div align="center">
 
@@ -132,38 +138,38 @@ const urwa = {
 ---
 
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urtuqa6013-web&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=urtuqa6013-web&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/urtuqa6013-web/medwear">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urtuqa6013-web&repo=medwear&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/urtuqa6013-web/med-wear">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=urtuqa6013-web&repo=med-wear&theme=tokyonight&hide_border=true"/>
 
-<a href="https://github.com/urtuqa6013-web/connecthub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urtuqa6013-web&repo=connecthub&theme=tokyonight&hide_border=true" />
 </a>
 
 <a href="https://github.com/urtuqa6013-web/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urtuqa6013-web&repo=portfolio&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=urtuqa6013-web&repo=portfolio&theme=tokyonight&hide_border=true"/>
+
 </a>
 
-<a href="https://github.com/urtuqa6013-web/task-manager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urtuqa6013-web&repo=task-manager&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/urtuqa6013-web/Task-Manager">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=urtuqa6013-web&repo=Task-Manager&theme=tokyonight&hide_border=true"/>
+
 </a>
 
 </div>
+
+---
 
 ## 🌟 What You'll Find Here
 
@@ -237,15 +243,6 @@ while (alive) {
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/urtuqa6013-web/urtuqa6013-web/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
 
 ---
 
