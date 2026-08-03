@@ -268,6 +268,7 @@ while (alive) {
    └── 🚀 Open to Full-Stack MERN Opportunities
 
 ```
+---
 
 ## 📚 Learning & Growth
 
@@ -278,6 +279,8 @@ while (alive) {
 - 📦 Redux Toolkit
 - 🎨 Responsive UI Design
 - 🌱 Currently exploring Docker & deployment
+
+---
 
 ## 🎯 What I Value
 
@@ -291,12 +294,16 @@ while (alive) {
 
 💡 Building products that solve real problems
 
+---
+
 ## ☕ A Little More About Me
 
 - 🌙 I enjoy late-night coding sessions.
 - 💡 I love turning ideas into working products.
 - 📚 I believe every project teaches something new.
 - 🎯 My goal is to become a skilled Full-Stack Engineer who builds impactful applications.
+
+---
 
 ## ⚡ Skills Snapshot
 
@@ -309,13 +316,6 @@ while (alive) {
 | 🚀 Deployment | Vercel, Render |
 
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=urtuqa6013-web&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true&radius=16"/>
-
-</div>
 
 
 ## 🚀 Build Showcase
@@ -369,9 +369,5 @@ Modern developer portfolio with animations.
 </table>
 
 
-<div align="center">
 
-LinkedIn | Portfolio | Gmail | GitHub
-
-</div>
 
